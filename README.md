@@ -1,8 +1,8 @@
 # VisualisasiData
 Tugas Akhir Visualisasi Data
 Kelompok :
-Ahmad Azam Izudin
-Arina Mana Sikana
-Fani Visara
-M. Aris Munandar
-Sandro E. Irwansyah Pasaribu
+1. Ahmad Azam Izudin
+2. Arina Mana Sikana
+3. Fani Visara
+4. M. Aris Munandar
+5. Sandro E. Irwansyah Pasaribu
